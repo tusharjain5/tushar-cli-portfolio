@@ -42,7 +42,7 @@ Interact with the terminal just like a real command-line and explore my skills, 
 
 ## 🌐 Live Site
 
-👉 [Visit Portfolio Live](https://tushar-cli-portfolio.vercel.app/)
+👉 [Visit Portfolio Live](https://tushar-cli-portfolio-zmnz.vercel.app/)
 
 ---
 
