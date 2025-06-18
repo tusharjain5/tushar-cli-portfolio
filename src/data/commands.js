@@ -38,7 +38,7 @@ const commands = {
    🔹 ReactJS + Spring Boot + Hibernate system for managing task workflows with Postman-tested APIs.
 `,
 
-  contact: `📧 Email: tusharjain@example.com
+  contact: `
 🔗 LinkedIn: https://www.linkedin.com/in/tushar-jain-ba89b41b1
 🐙 GitHub: https://github.com/tusharjain5
 
